@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfMVVM.View.EditingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMVVM.View"
+        xmlns:model="clr-namespace:WpfMVVM.Model;assembly=WpfMVVM.Model"
+        mc:Ignorable="d"
+        Title="{Binding WindowTitle}" Height="300" Width="300" Loaded="Window_Loaded">
+    
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="250">
+        <Label Content="User Name"/>
+        <TextBox Text="{Binding CurrentUser.UserName, ValidatesOnNotifyDataErrors=True}" x:Name="UserNameTxtBox" Margin="0 10"/>
+        <Label Content="User Password"/>
+        <TextBox Text="{Binding CurrentUser.UserPass, ValidatesOnNotifyDataErrors=True}" x:Name="UserPassTxtBox" Margin="0 10"/>
+        <Label Content="Is Admin"/>
+        <TextBox Text="{Binding CurrentUser.IsAdmin, ValidatesOnNotifyDataErrors=True}" x:Name="IsAdminTxtBox" Margin="0 10"/>
+        <Button Command="{Binding SaveCommand}" x:Name="button" Content="Save" HorizontalAlignment="Right"  VerticalAlignment="Top" Width="75"/>
+    </StackPanel>
+</Window>

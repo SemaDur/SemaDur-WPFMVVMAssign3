@@ -1,0 +1,6 @@
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.Model\bin\Debug\WpfMVVM.Model.dll
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.Model\bin\Debug\WpfMVVM.Model.pdb
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.Model\obj\Debug\WpfMVVM.Model.csprojAssemblyReference.cache
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.Model\obj\Debug\WpfMVVM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.Model\obj\Debug\WpfMVVM.Model.dll
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.Model\obj\Debug\WpfMVVM.Model.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\obj\Debug\WpfMVVM.ViewModel.csprojAssemblyReference.cache
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\obj\Debug\WpfMVVM.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\bin\Debug\WpfMVVM.ViewModel.dll
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\bin\Debug\WpfMVVM.ViewModel.pdb
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\bin\Debug\WpfMVVM.Model.dll
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\bin\Debug\WpfMVVM.Model.pdb
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\obj\Debug\WpfMVVM.ViewModel.csproj.CopyComplete
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\obj\Debug\WpfMVVM.ViewModel.dll
+C:\Users\Ryu\source\repos\WpfMVVMAssign1\WpfMVVM.ViewModel\obj\Debug\WpfMVVM.ViewModel.pdb
